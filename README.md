@@ -5,7 +5,7 @@
 * Aplicaci&oacute;n web que permite al usuario crear / modificar / eliminar / a&ntilde;adir notas. 
 
 
-## 🛠️ Lenguajes utilizados para el proyecto:
+## 🛠️ Tecnolog&iacute;as utilizadas en el proyecto:
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/amsanchezm11)
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/amsanchezm11)
